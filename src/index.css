@@ -1,0 +1,12 @@
+img{
+/* i want a dynamic width and height to the image */
+width: 100% !important;
+height: 100% !important;
+
+/* i want the image to be centered */ 
+display: block;
+/* margin-left: auto; */
+margin-right: auto;
+
+
+}
